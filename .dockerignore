@@ -1,0 +1,24 @@
+# ignore all markdown files (md) beside all README*.md other than README-secret.md
+*.md
+!README*.md
+README-secret.md
+
+# ignore all *.class files in all folders, including build root
+**/*.yml
+**/*.ts
+
+# ignore .git and .cache folders
+.git
+.cache
+
+# To prevent storing dev/temporary container data
+*.csv
+tmp
+
+#folders
+node_modules
+src
+.github
+
+# files
+Dockerfile
