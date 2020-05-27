@@ -1,6 +1,6 @@
 <h1 align="center">TypeScript API Template</h1>
 <p align="center">
-  <a href="https://github.com/softstate/TypeScript-API#readme">
+  <a href="https://github.com/softstate/TypeScript-API/packages/239140">
     <img src="https://github.com/softstate/TypeScript-API/workflows/Docker/badge.svg?branch=master"/>
   </a>
 
